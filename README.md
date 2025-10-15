@@ -8,3 +8,5 @@ These codes cover many of the key concepts you’ll encounter and have many basi
 I originally coded these during my course, and at the moment, I don’t plan to add more examples. However, I might update or expand this repository in the future.
 
 Feel free to experiment with the code! 🚀
+
+PS: I will be making this repo more readable.
